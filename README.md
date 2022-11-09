@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A chat app, for experimenting with rust and svelte](https://github.com/Waayway/chat-app)
 
-- 🌱 I’m currently learning **Rust and PHP**
+- 🌱 I’m currently learning **Rust, PHP And Flutter**
 
 - 🤝 I’m looking for help with [A game engine that should eventually make a 3d hide and seek game](https://github.com/Waayway/MultiplayerGameRust)
 
